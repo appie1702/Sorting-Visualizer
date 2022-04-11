@@ -1,0 +1,52 @@
+.array-container {
+    position: absolute;
+    margin: auto;
+    margin-left: 80px;
+    margin-right: 80px;
+    border-width: 2px;
+    height: 580px;
+    border-color: black;
+    border-style: solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+  }
+  
+  .array-bar {
+    background-color: turquoise;
+    display: inline-block;
+    margin-right: 2.5px;
+    color: transparent;
+    font-family: sans-serif;
+    font-weight: 700;
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+  }
+
+  .nav_items {
+    background-color: black;
+  }
+
+.button {
+  margin-right: 8vh;
+  margin-bottom: 2.3vh;
+  box-shadow: none !important;
+}
+
+#typeinp {
+  margin-left: 45vh;
+}
+
+
+#reset_button {
+  float: left;
+  position: absolute;
+  left: 18vh;
+}
+
+#buttons {
+  float: right;
+}
