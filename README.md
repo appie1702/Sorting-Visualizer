@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+
 This is a Sorting Algorithms Visualizer Application created on React.js with the help of HTML, CSS and Bootstrap.\
 Visit the Website:- https://appie1702.github.io/Sorting-Visualizer
 
